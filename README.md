@@ -10,4 +10,8 @@
 <br>
 📬 How to reach me: [linkedin](https://github.com/supesu) or [discord](https://github.com/supesu)
 
+-----
 
+I'm currently listening to:
+
+![](https://supesu-5sj5h6a7v-supesu.vercel.app/api/spotify-playing)
