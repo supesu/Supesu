@@ -10,4 +10,8 @@
 <br>
 📬 How to reach me: [linkedin](https://www.linkedin.com/in/kian-merchant-860a73206/) or [discord](https://pastebin.com/iCcz1L4K)
 
+-----
 
+I'm currently listening to:
+
+![](https://supesu-5sj5h6a7v-supesu.vercel.app/api/spotify-playing)
