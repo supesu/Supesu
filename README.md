@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Age-16-lightgray?style=flat-square" />
 
 ---
-🔭 I'm currently working on: [supesu.dev](https://supesu.dev) and [whybot](https://github.com/supesu/whybot)
+🔭 I'm currently working on: [Eve](https://github.com/supesu/eve) and expanding my mathematical knowledge past that of a kindergartner
 <br>
 🎓 I'm currently learning: [react](https://github.com/facebook/react) and [typescript](https://www.typescriptlang.org/)
 <br>
