@@ -6,7 +6,7 @@
 ---
 🔭 I'm currently working on: [Eve](https://github.com/supesu/eve) and expanding my mathematical knowledge past that of a kindergartner
 <br>
-🎓 I'm currently learning: [react](https://github.com/facebook/react) and [typescript](https://www.typescriptlang.org/)
+🎓 I'm currently learning: [Vulkan](https://www.vulkan.org/), Advanced Mathematics & [c++](https://www.cplusplus.com/)
 <br>
 📬 How to reach me: [linkedin](https://www.linkedin.com/in/kian-merchant-860a73206/) or [discord](https://pastebin.com/iCcz1L4K)
 
