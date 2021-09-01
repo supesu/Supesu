@@ -4,9 +4,9 @@
 <img src="https://img.shields.io/badge/Age-16-lightgray?style=flat-square" />
 
 ---
-🔭 I'm currently working with a client and expanding my mathematical knowledge past that of a kindergartner
+🔭 I'm currently practicing my React & Typescript skillset with [fluuid](https://github.com/supesu/fluuuid)
 <br>
-🎓 I'm currently learning: [Vulkan](https://www.vulkan.org/), Advanced Mathematics & [c++](https://www.cplusplus.com/)
+🎓 I'm currently learning: advanced typescript techniques
 <br>
 📬 How to reach me: [linkedin](https://github.com/supesu) or [discord](https://github.com/supesu)
 
