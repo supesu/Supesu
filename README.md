@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Age-16-lightgray?style=flat-square" />
 
 ---
-🔭 I'm currently practicing my React & Typescript skillset with [fluuid](https://github.com/supesu/fluuuid)
+🔭 I'm currently practicing my React & Typescript skillset with [Fluuid](https://github.com/Supesu/Fluuid)
 <br>
 🎓 I'm currently learning: advanced typescript techniques
 <br>
