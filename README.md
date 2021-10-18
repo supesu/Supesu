@@ -7,7 +7,7 @@
 <br>
 🎓 I'm currently learning: advanced typescript techniques
 <br>
-📬 How to reach me: [linkedin](https://www.linkedin.com/in/kian-merchant-860a73206/) or [discord](https://pastebin.com/iCcz1L4K)
+📬 How to reach me: [linkedin](https://www.linkedin.com/in/kian-merchant-860a73206/) or [discord](https://pastebin.com/wMVbSMeJ)
 
 -----
 
