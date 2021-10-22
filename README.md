@@ -3,9 +3,9 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />](https://github.com/supesu)
 
 ---
-🔭 I'm currently practicing my React & Typescript skillset with [Fluuid](https://github.com/Supesu/Fluuid)
+🔭 I'm currently doing a software engineering internship at [Akahu](https://akahu.io/)
 <br>
-🎓 I'm currently learning: advanced typescript techniques
+🎓 I'm currently learning: SolidJS
 <br>
 📬 How to reach me: [linkedin](https://github.com/supesu) or [discord](https://github.com/supesu)
 
