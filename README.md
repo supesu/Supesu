@@ -3,11 +3,11 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kian-merchant-860a73206/)
 
 ---
-🔭 I'm currently practicing my React & Typescript skillset with [Fluuid](https://github.com/Supesu/Fluuid)
+🔭 I'm currently doing a software engineering internship at [Akahu](https://akahu.io/)
 <br>
-🎓 I'm currently learning: advanced typescript techniques
+🎓 I'm currently learning: SolidJS
 <br>
-📬 How to reach me: [linkedin](https://www.linkedin.com/in/kian-merchant-860a73206/) or [discord](https://pastebin.com/wMVbSMeJ)
+📬 How to reach me: [linkedin](https://www.linkedin.com/in/kian-merchant/) or [discord](https://pastebin.com/wMVbSMeJ)
 
 -----
 
