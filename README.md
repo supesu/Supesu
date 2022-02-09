@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />](https://github.com/supesu)
 
 ---
-🔭 I'm currently doing a software engineering internship at [Akahu](https://akahu.io/)
+🔭 I'm currently rebuild whybot
 <br>
 🎓 I'm currently learning: SolidJS
 <br>
