@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kian-merchant-860a73206/)
 
 ---
-🔭 I'm currently doing a software engineering internship at [Akahu](https://akahu.io/)
+🔭 I'm currently rebuild whybot
 <br>
 🎓 I'm currently learning: SolidJS
 <br>
