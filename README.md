@@ -1,7 +1,7 @@
 ![Supesu](https://komarev.com/ghpvc/?username=supesu&color=lightgray&style=flat-square)
 
 ---
-Ask me about: `League Of Legends` `Competitive programming` `Typescript` `Graphics Development`
+Ask me about: `League Of Legends` `Go` `Typescript` `IGaming`
 
 
 ---
